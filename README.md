@@ -1,2 +1,2 @@
 # petology-bootstrap
- Week 5 QOL code-along site
+ Week 6 Developer Quality-of-Life code-along
